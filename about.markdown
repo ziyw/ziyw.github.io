@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
  
-Hey there, this is Ziyan. I'm a programmer living in Washington, DC. 
+Hey there, this is Ziyan. I'm a programmer. 
 
 Here is a personal blog. It will work as another journal of mine, where I can jot down some random thoughts, put together more organized notes or just share some personal feelings. Since programming is my daily job, there will be a lot programming related topics here. 
 

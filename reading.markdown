@@ -5,6 +5,7 @@ permalink: /reading/
 ---
 ## 2020 
 **Books** 
+- The Starless Sea: A Novel by Erin Morgenstern, fiction [April] 
 - Bad Blood: Secrets and Lies in Scilicon Valley Startup, nonfiction [Feb]
 
 **Papers**  

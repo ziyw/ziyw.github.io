@@ -4,9 +4,11 @@ title: Reading List
 permalink: /reading/
 ---
 ## 2020 
+
 **Books** 
-- The Starless Sea: A Novel by Erin Morgenstern, fiction [April] 
-- Bad Blood: Secrets and Lies in Scilicon Valley Startup, nonfiction [Feb]
+- The Mythical Man-Month by Frederick Brook, nonfiction 
+- The Starless Sea: A Novel by Erin Morgenstern, fiction 
+- Bad Blood: Secrets and Lies in Scilicon Valley Startup, nonfiction
 
 **Papers**  
 - Impossibility of Distributed Consensus with One Faulty Process [Jan]

@@ -6,7 +6,7 @@ permalink: /reading/
 ## 2020 
 
 **Books** 
-- City of Thieves by David Benioff
+- City of Thieves by David Benioff, fiction 
 - Killing and Dying by Adrian Tomine, comic  
 - The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win by Maria Konnikova, nonfiction 
 - The Mythical Man-Month by Frederick Brook, nonfiction 

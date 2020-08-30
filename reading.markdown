@@ -14,6 +14,7 @@ permalink: /reading/
 - Bad Blood: Secrets and Lies in Scilicon Valley Startup, nonfiction
 
 **Papers**  
+- [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf)
 - Impossibility of Distributed Consensus with One Faulty Process [Jan]
 
 <br />

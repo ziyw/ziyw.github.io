@@ -10,6 +10,7 @@ permalink: /reading/
 - Killing and Dying by Adrian Tomine, comic  
 - The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win by Maria Konnikova, nonfiction 
 - The Mythical Man-Month by Frederick Brook, nonfiction 
+- The Goldfinch by Donna Tartt, fiction 
 - The Starless Sea: A Novel by Erin Morgenstern, fiction 
 - Bad Blood: Secrets and Lies in Scilicon Valley Startup, nonfiction
 

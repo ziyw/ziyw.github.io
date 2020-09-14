@@ -6,6 +6,8 @@ permalink: /reading/
 ## 2020 
 
 **Books** 
+- Every Tool's a Hammer by Adam Savage, non fiction 
+- Notes From An Apocalypse by Mark O'Connell, non fiction 
 - City of Thieves by David Benioff, fiction 
 - Killing and Dying by Adrian Tomine, comic  
 - The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win by Maria Konnikova, nonfiction 

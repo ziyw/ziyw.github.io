@@ -6,11 +6,12 @@ permalink: /reading/
 ## 2020 
 
 **Books** 
+- *Masters of Doom by David Kushner, nonfiction 
 - Every Tool's a Hammer by Adam Savage, nonfiction 
 - Notes From An Apocalypse by Mark O'Connell, nonfiction 
-- City of Thieves by David Benioff, fiction 
+- *City of Thieves by David Benioff, fiction 
 - Killing and Dying by Adrian Tomine, comic  
-- The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win by Maria Konnikova, nonfiction 
+- *The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win by Maria Konnikova, nonfiction 
 - The Mythical Man-Month by Frederick Brook, nonfiction 
 - The Goldfinch by Donna Tartt, fiction 
 - The Starless Sea: A Novel by Erin Morgenstern, fiction 

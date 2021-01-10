@@ -3,9 +3,19 @@ layout: page
 title: Reading List
 permalink: /reading/
 ---
+## 2021 
+
+**Books** 
+- The Subtle Art of Not Giving A Fuck by Mark Manson, nonfiction 
+
+
 ## 2020 
 
 **Books** 
+- Radio Silence by Alice Oseman, fiction 
+- Normal People by Sally Rooney, fiction 
+- Convenience Store Woman by Sayaka Murata, fiction 
+- Days of Distraction by Alexandra Chang, fiction 
 - *Masters of Doom by David Kushner, nonfiction 
 - Every Tool's a Hammer by Adam Savage, nonfiction 
 - Notes From An Apocalypse by Mark O'Connell, nonfiction 

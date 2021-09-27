@@ -6,8 +6,20 @@ permalink: /reading/
 ## 2021 
 
 **Books** 
+- The Biggest Bluff by Maria Konnikova, nonfiction, reread
+- The Anthropocene Reviewed by John Green, nonfiction
+- Eat a Peach by David Chang, nonfiction
+- Project Hail Mary by Andy Weir, fiction
+- Hungry by Jeff Gordinier, nonfiction
+- Code Breaker by Walter Isaacson, nonfiction
+- The nice house on the lake, comic 
+- Toxic Parents by Susan Forward, nonfiction
+- Gaslight Effect by Robin Stern, nonfiction 
+- Spy Family by Tasuya Endo, managa
+- Leave the world behind by Rumaan Alam, fiction 
+- Starling days by Rowan Hisayo Buchanan, fiction 
+- Cyring in H Mart, Michelle Zuner, nonfiction 
 - The Subtle Art of Not Giving A Fuck by Mark Manson, nonfiction 
-
 
 ## 2020 
 

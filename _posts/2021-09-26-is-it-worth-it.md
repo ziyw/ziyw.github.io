@@ -11,6 +11,6 @@ There are few magical moments recently. One is I got my eyes checked for the fir
 
 To my question, for anyone who is wondering the same thing and need this confirmation, yes, it's all worth it. 
 
-I spent a huge amount of time trying to convince myself through reading and journaling. They are helpful to some extend but not as effective as taking actions. Doing things is more important than just thinking. A better answer is, "it is worth it or not" actually doesn't matter. You don't need answer anybody but yourself. Life is simpler and easier when I start to put this question down and start to live a life. It's a hell amount of work to improve your life even just a little bit. Then there will be those magical moments that nobody can take away. 
+I spent a huge amount of time trying to convince myself through reading and journaling. They are helpful to some extend but not as effective as taking actions. Doing things is more important than just thinking. A better answer is, "it is worth it or not" actually doesn't matter. You don't need to answer anybody but yourself. Life is simpler and easier when I start to put this question down and start to live a life with less judgement. It's a hell amount of work to improve your life even just a little bit. Then there will be those magical moments that nobody can take away. 
 
 Yes, it's so fucking worth it.

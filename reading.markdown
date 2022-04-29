@@ -13,7 +13,7 @@ permalink: /reading/
 
 **Books** 
 - The Biggest Bluff by Maria Konnikova, nonfiction, reread
-- The Anthropocene Reviewed by John Green, nonfiction
+- **The Anthropocene Reviewed** by John Green, nonfiction
 - Eat a Peach by David Chang, nonfiction
 - Project Hail Mary by Andy Weir, fiction
 - Hungry by Jeff Gordinier, nonfiction
@@ -34,12 +34,12 @@ permalink: /reading/
 - Normal People by Sally Rooney, fiction 
 - Convenience Store Woman by Sayaka Murata, fiction 
 - Days of Distraction by Alexandra Chang, fiction 
-- *Masters of Doom by David Kushner, nonfiction 
+- **Masters of Doom** by David Kushner, nonfiction 
 - Every Tool's a Hammer by Adam Savage, nonfiction 
 - Notes From An Apocalypse by Mark O'Connell, nonfiction 
-- *City of Thieves by David Benioff, fiction 
+- **City of Thieves** by David Benioff, fiction 
 - Killing and Dying by Adrian Tomine, comic  
-- *The Biggest Bluff: How I Learned to Pay Attention, Master Myself, and Win by Maria Konnikova, nonfiction 
+- **The Biggest Bluff**: How I Learned to Pay Attention, Master Myself, and Win by Maria Konnikova, nonfiction 
 - The Mythical Man-Month by Frederick Brook, nonfiction 
 - The Goldfinch by Donna Tartt, fiction 
 - The Starless Sea: A Novel by Erin Morgenstern, fiction 

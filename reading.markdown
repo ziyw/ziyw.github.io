@@ -3,6 +3,12 @@ layout: page
 title: Reading List
 permalink: /reading/
 ---
+
+## 2022
+- **The Dutch House** by Ann Patchett 
+- Commonwealth by Ann Patchett 
+- Station Eleven by Emily St.John Mandel
+
 ## 2021 
 
 **Books** 

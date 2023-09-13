@@ -12,6 +12,9 @@ permalink: /reading/
 - Ripe by Sarah Rose Etter
 - Four Thousand Weeks: Time Management for Mortals by Oliver Burkeman
 - Deep Work: Rules for Focused Success in a Distracted World by Cal Newport
+- Solitaire by Alice Oseman
+- Chip War: The Fight for the World's Most Critical Technology by Chris Miller
+- Spring in Action by Craig Walls
 
 ## 2022
 - **The Dutch House** by Ann Patchett 

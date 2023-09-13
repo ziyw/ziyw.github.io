@@ -4,6 +4,15 @@ title: Reading List
 permalink: /reading/
 ---
 
+## 2023 
+- **Exercised: Why Something We Never Evolved to Do Is Healthy and Rewarding** by Daniel Lieberman (Read this book, started to run, experienced more pain than ever, now I run everyday. LIFE! You never know.)
+- Bel Canto by Ann Patchett
+- Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin
+- I Have Some Questions for You by Rebecca Makkai
+- Ripe by Sarah Rose Etter
+- Four Thousand Weeks: Time Management for Mortals by Oliver Burkeman
+- Deep Work: Rules for Focused Success in a Distracted World by Cal Newport
+
 ## 2022
 - **The Dutch House** by Ann Patchett 
 - Commonwealth by Ann Patchett 

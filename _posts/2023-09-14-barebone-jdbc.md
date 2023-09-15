@@ -56,17 +56,17 @@ java -cp target/ExamplePgJdbc-1.0-SNAPSHOT.jar org.example.Main
 ```
 
 ## References: (The real gist)
-1. PostgreSQL dump and restore db data [https://www.postgresql.org/docs/current/backup-dump.html]
-1. Preload Postgres Docker [https://cadu.dev/creating-a-docker-image-with-database-preloaded/]
-1. Postgres Cheatsheet [https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546#file-postgres-cheatsheet-md]
-1. PostgreSQL JDBC Driver [https://jdbc.postgresql.org/]
-1. Postgres JDBC Driver gpjdbc gpjdbc source code [https://github.com/pgjdbc/pgjdbc]
-1. Setup PostgreSQL JDBC Driver [https://jdbc.postgresql.org/documentation/setup/]
-1. JDBC Tutorial [https://docs.oracle.com/javase/tutorial/jdbc/basics/gettingstarted.html]
-1. JDBC API Doc [https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/]
-1. JDBC Wikipedia [https://en.wikipedia.org/wiki/Java_Database_Connectivity]
-1. Marco Behler Bare Metal JDBC Blog [https://www.marcobehler.com/guides/jdbc]
-1. HikariCP connection pool [https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing]
+1. PostgreSQL dump and restore db data <https://www.postgresql.org/docs/current/backup-dump.html>
+1. Preload Postgres Docker <https://cadu.dev/creating-a-docker-image-with-database-preloaded/>
+1. Postgres Cheatsheet <https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546#file-postgres-cheatsheet-md>
+1. PostgreSQL JDBC Driver <https://jdbc.postgresql.org/>
+1. Postgres JDBC Driver gpjdbc gpjdbc source code <https://github.com/pgjdbc/pgjdbc>
+1. Setup PostgreSQL JDBC Driver <https://jdbc.postgresql.org/documentation/setup/>
+1. JDBC Tutorial <https://docs.oracle.com/javase/tutorial/jdbc/basics/gettingstarted.html>
+1. JDBC API Doc <https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/>
+1. JDBC Wikipedia <https://en.wikipedia.org/wiki/Java_Database_Connectivity>
+1. Marco Behler Bare Metal JDBC Blog <https://www.marcobehler.com/guides/jdbc>
+1. HikariCP connection pool <https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing>
 
 
 

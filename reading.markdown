@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reading List
-permalink: /reading/
+title: readlog
+permalink: /readlog/
 ---
 
 ## 2023 

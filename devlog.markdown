@@ -5,6 +5,7 @@ permalink: /devlog/
 ---
 
 Sep 2023 
-- setup RabbitMQ and simple send/receive from queue
-- back to write go lang and created project dslog 
+- 09/19 https://go.dev/blog/pipelines, a bit under the weather, resume tomorrow
+- 09/18 setup RabbitMQ and simple send/receive from queue
+- 09/17 back to write go lang and created project dslog 
 - created minimal JDBC example

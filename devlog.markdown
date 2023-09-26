@@ -5,6 +5,7 @@ permalink: /devlog/
 ---
 
 Sep 2023
+- 09/25 postgres, rest, fuzz, gRPC small examples
 - 09/21 Small bounded parallel example, go pipeline is not the easiest thing 
 - 09/20 
 - 09/19 https://go.dev/blog/pipelines, a bit under the weather, resume tomorrow

@@ -5,6 +5,7 @@ permalink: /devlog/
 ---
 
 Sep 2023
+- 09/30 Read *I heart logs* by Jay Kreps 
 - 09/28 more go writing, RFC3339 is the best 
 - 09/25 postgres, rest, fuzz, gRPC small examples
 - 09/21 Small bounded parallel example, go pipeline is not the easiest thing 

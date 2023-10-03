@@ -1,8 +1,11 @@
----
+--
 layout: page
 title: devlog
 permalink: /devlog/
 ---
+
+Oct 2023
+- 10/02 worked on dslog project, rpc to postgres done
 
 Sep 2023
 - 09/30 Read *I heart logs* by Jay Kreps 

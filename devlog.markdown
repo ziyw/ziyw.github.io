@@ -5,6 +5,7 @@ permalink: /devlog/
 ---
 
 Oct 2023
+- 10/03 taking a look at Kafka
 - 10/02 worked on dslog project, rpc to postgres done
 
 Sep 2023

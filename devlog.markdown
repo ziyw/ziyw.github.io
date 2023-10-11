@@ -5,6 +5,7 @@ permalink: /devlog/
 ---
 
 Oct 2023
+- 10/10 basic db query logic 
 - 10/06 postgres COPY 
 - 10/05 simple postgres docker post
 - 10/04 finally figured out how to load data correctly when setting up postgres docker 

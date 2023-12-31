@@ -5,7 +5,9 @@ permalink: /readlog/
 ---
 
 ## 2023 
-- **Exercised: Why Something We Never Evolved to Do Is Healthy and Rewarding** by Daniel Lieberman (Read this book, started to run, experienced more pain than ever, now I run everyday. LIFE! You never know.)
+- **Exercised: Why Something We Never Evolved to Do Is Healthy and Rewarding** by Daniel Lieberman 
+- **Flow: The Psychology of Optimal Experience** by Mihaly Csikszentmihalyi
+- **Pachinko** by Min Jin Lee
 - Bel Canto by Ann Patchett
 - Tomorrow, and Tomorrow, and Tomorrow by Gabrielle Zevin
 - I Have Some Questions for You by Rebecca Makkai
@@ -15,6 +17,9 @@ permalink: /readlog/
 - Solitaire by Alice Oseman
 - Chip War: The Fight for the World's Most Critical Technology by Chris Miller
 - Spring in Action by Craig Walls
+- Tom Lake by Ann Patchett 
+- Immortal Sergeant by Joe Kelly & KEN NIIMURA
+- The Midcoast by Adam White
 
 ## 2022
 - **The Dutch House** by Ann Patchett 

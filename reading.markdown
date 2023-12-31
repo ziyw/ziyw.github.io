@@ -18,8 +18,9 @@ permalink: /readlog/
 - Chip War: The Fight for the World's Most Critical Technology by Chris Miller
 - Spring in Action by Craig Walls
 - Tom Lake by Ann Patchett 
-- Immortal Sergeant by Joe Kelly & KEN NIIMURA
 - The Midcoast by Adam White
+- Human Target by Tom King & Greg Smallwood
+- Immortal Sergeant by Joe Kelly & KEN NIIMURA
 
 ## 2022
 - **The Dutch House** by Ann Patchett 

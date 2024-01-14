@@ -4,6 +4,9 @@ title: readlog
 permalink: /readlog/
 ---
 
+## 2024 
+- [Powder days](https://www.goodreads.com/en/book/show/56383028) by Heather Hansman
+
 ## 2023 
 - **Exercised: Why Something We Never Evolved to Do Is Healthy and Rewarding** by Daniel Lieberman 
 - **Flow: The Psychology of Optimal Experience** by Mihaly Csikszentmihalyi

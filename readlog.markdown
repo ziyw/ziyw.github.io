@@ -5,6 +5,7 @@ permalink: /readlog/
 ---
 
 ## 2024 
+- **[Writers & Lovers](https://www.goodreads.com/book/show/45289222-writers-lovers)** by Lily King
 - [Less](https://www.goodreads.com/book/show/39927096-less) by Andrew Sean Greer
 - [Powder days](https://www.goodreads.com/en/book/show/56383028) by Heather Hansman
 

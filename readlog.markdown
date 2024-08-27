@@ -5,6 +5,8 @@ permalink: /readlog/
 ---
 
 ## 2024 
+- [Year of the Monkey](https://www.goodreads.com/book/show/44776548-year-of-the-monkey) byPatti Smith
+- [The Southern Book Club's Guide to Slaying Vampires](https://www.goodreads.com/en/book/show/44074800) by Grady Hendrix
 - [Early morning riser](https://www.goodreads.com/en/book/show/53489729) by Katherine Heiny
 - **[Writers & Lovers](https://www.goodreads.com/book/show/45289222-writers-lovers)** by Lily King
 - [Less](https://www.goodreads.com/book/show/39927096-less) by Andrew Sean Greer

@@ -17,7 +17,7 @@ launch.json
 
 Here is how to generate them: 
 
-## Simplest sinario: run a single cpp file. 
+## Simplest: run a single cpp file. 
 - Generate `c_cpp_properties.json` file. 
   IntelliSense is required for this step to generate the file. 
   To generate the file:

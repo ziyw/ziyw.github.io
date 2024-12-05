@@ -24,4 +24,4 @@ Also, a little reminder: **life is worth living** and **you will figure it out**
   2. Masters of Doom by David Kushner
   3. The Secret History by Donna Tartt
 
-- Video games: Elden Ring and Planet Coaster 2
+- Video games: Elden Ring 

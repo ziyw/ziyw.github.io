@@ -5,6 +5,9 @@ permalink: /readlog/
 ---
 
 ## 2024 
+- [Permutation City](https://www.goodreads.com/book/show/156784.Permutation_City) by Greg Egan
+- [How to be Eaten](https://www.goodreads.com/book/show/58950713-how-to-be-eaten) by Maria Adelmann 
+- [The Guest](https://www.goodreads.com/book/show/61986136-the-guest) by Emma Cline 
 - [Intermezzo](https://www.goodreads.com/book/show/208931300-intermezzo) by Sally Rooney
 - **[The Secret History](https://www.goodreads.com/book/show/29044.The_Secret_History)** by Donna Tartt
 - [Year of the Monkey](https://www.goodreads.com/book/show/44776548-year-of-the-monkey) by Patti Smith

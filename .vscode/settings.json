@@ -1,6 +1,12 @@
 {
      "editor.tokenColorCustomizations": {
-          "comments": "#FFFFFF",
+          "comments": "#000000",
+          "functions": "#000000",
+          "numbers": "#000000",
+          "variables": "#000000",
+          "types": "#000000",
+          "keywords": "#000000",
+          "strings": "#000000",
           "textMateRules": []
      }
 }

@@ -5,7 +5,7 @@ permalink: /readlog/
 ---
 
 ## 2025
-- **[Stay Sharp](https://www.goodreads.com/book/show/52754076-keep-sharp)** by Sanjay Gupta
+- **[Keep Sharp](https://www.goodreads.com/book/show/52754076-keep-sharp)** by Sanjay Gupta
 
 ## 2024 
 - [Permutation City](https://www.goodreads.com/book/show/156784.Permutation_City) by Greg Egan

@@ -5,6 +5,7 @@ permalink: /readlog/
 ---
 
 ## 2025
+- **[A Tour of C++](https://www.goodreads.com/book/show/18197265-a-tour-of-c)** by Bjarne Stroustrup
 - **[Keep Sharp](https://www.goodreads.com/book/show/52754076-keep-sharp)** by Sanjay Gupta
 
 ## 2024 

@@ -5,6 +5,7 @@ permalink: /readlog/
 ---
 
 ## 2025
+- [Bear](https://www.goodreads.com/book/show/196056205-bear) by Julia Phillips
 - **[A Tour of C++](https://www.goodreads.com/book/show/18197265-a-tour-of-c)** by Bjarne Stroustrup
 - **[Keep Sharp](https://www.goodreads.com/book/show/52754076-keep-sharp)** by Sanjay Gupta
 

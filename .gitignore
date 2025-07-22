@@ -7,3 +7,4 @@ vendor
 _drafts
 .vscode/
 NOTE
+*.DS_Store

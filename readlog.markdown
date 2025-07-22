@@ -5,6 +5,12 @@ permalink: /readlog/
 ---
 
 ## 2025
+- [Bluebird, Bluebird](https://www.goodreads.com/book/show/40605488) by Attica Locke
+- [Late to the Ball](https://www.goodreads.com/book/show/25814566) by Gerald Marzorati
+- [The Magician's Assistant](https://www.goodreads.com/book/show/16055) by Ann Patchett
+- [Molly](https://www.goodreads.com/book/show/101137620) by Blake Butler
+- [My Brilliant Friend](https://www.goodreads.com/book/show/13586707-my-brilliant-friend) by Elena Ferrante
+- [Everyone in This Room will someday be dead](https://www.goodreads.com/book/show/59366182) by Emily Austin
 - [Bear](https://www.goodreads.com/book/show/196056205-bear) by Julia Phillips
 - **[A Tour of C++](https://www.goodreads.com/book/show/18197265-a-tour-of-c)** by Bjarne Stroustrup
 - **[Keep Sharp](https://www.goodreads.com/book/show/52754076-keep-sharp)** by Sanjay Gupta
